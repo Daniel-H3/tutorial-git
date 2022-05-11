@@ -1,0 +1,4 @@
+-kucing
+-anjing
+-ikan
+-ayam
