@@ -2,3 +2,5 @@
 -anjing
 -ikan
 -ayam
+-paus
+-kuda
